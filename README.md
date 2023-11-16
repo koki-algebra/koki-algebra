@@ -1,4 +1,6 @@
-# koki-algebra
+# About koki-algebra
+I'm a backend engineer who specializes in Go and AWS.<br>
+In graduate school, I am researching machine learning.
 
 ## My Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=go,aws,docker,kubernetes,linux,mysql,postgres,graphql,git,github,vscode,html,css,ts,python,pytorch" />
