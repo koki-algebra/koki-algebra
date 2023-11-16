@@ -1,7 +1,7 @@
 # koki-algebra
 
 ## My Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,aws,docker,kubernetes,mysql,postgres,git,github,html,css,ts,python,pytorch" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=go,aws,docker,kubernetes,mysql,postgres,graphql,git,github,vscode,html,css,ts,python,pytorch" />
 
 ## Status
 <p align="left"> 
