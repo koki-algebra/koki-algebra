@@ -1,6 +1,5 @@
 # About koki-algebra
-I'm a backend engineer who specializes in Go and AWS.<br>
-In graduate school, I am researching machine learning.
+I'm a backend engineer at Knowledge Work, specializing in Go and AWS. By night, I'm a grad student at Hokkaido University, researching machine learning. Balancing work and studies keeps me at the forefront of tech - it's challenging but exciting!
 
 ## My Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=go,aws,docker,kubernetes,linux,mysql,postgres,graphql,git,rust,vscode,html,css,ts,python,pytorch" />
